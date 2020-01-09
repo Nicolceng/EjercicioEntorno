@@ -27,15 +27,8 @@ int main(){
 
     cout<<"<------------------------------------------------>"<<endl;
     cout<<"el resultado es"<<endl;
-    cout<<"\n";
-    cout<<"\t |"<<endl;
-    cout<<"\t |"<<endl;
-    cout<<"\t |"<<endl;
-    cout<<"\t |"<<endl;
-    cout<<"\t |"<<endl;
-    cout<<"\t |"<<endl;
-    cout<<"\t *"<<endl;
-    cout<<"\n";
+    cout<<"<------------------------------------------------>"<<endl;
+    
     
 
 
